@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>GlobalVariable</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'www.att.com'</initValue>
+      <name>G_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.att.com/msapi/idp-content-orchestration/v1/idpcms/sales/uf/homepage'</initValue>
+      <name>JsonUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>passing null values in the search bar 
+passing Text(abcdef) in the search bar</description>
+   <name>SearchBar_TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e958807-eb4e-4630-8c06-4b828aef6d48</testCaseGuid>
+</TestCaseEntity>
