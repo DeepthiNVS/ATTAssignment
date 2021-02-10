@@ -1,0 +1,18 @@
+EmployeeInfo Table:							
+							
+EmpID	EmpFname	EmpLname	Department	Project	Address		DOB		Gender
+1	Sanjay		Mehra		HR		P1	Hyderabad(HYD)	1/12/1976	M
+2	Ananya		Mishra		Admin		P2	Delhi(DEL)	2/5/1968	F
+3	Rohan		Diwan		Account		P3	Mumbai(BOM)	1/1/1980	M
+4	Sonia		Kulkarni	HR		P1	Hyderabad(HYD)	2/5/1992	F
+5	Ankit		Kapoor		Admin		P2	Delhi(DEL)	3/7/1994	M
+
+EmployeePosition Table:							
+							
+EmpID	EmpPosition	DateOfJoining	Salary				
+1	Manager		1/5/2019	500000				
+2	Executive	2/5/2019	75000				
+3	Manager		1/5/2019	90000				
+2	Lead		2/5/2019	85000				
+
+
